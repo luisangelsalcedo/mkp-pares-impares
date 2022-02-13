@@ -1,0 +1,26 @@
+{
+  "name": "mkp-pares-impares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisangelsalcedo/mkp-pares-impares.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisangelsalcedo/mkp-pares-impares/issues"
+  },
+  "homepage": "https://github.com/luisangelsalcedo/mkp-pares-impares#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
